@@ -1,0 +1,19 @@
+{
+  "name": "personal-assistant",
+  "version": "1.0.0",
+  "description": "A personal assistant app that helps you track ToDos, Reminders, Expenses, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saravananj/Personal-Assistant.git"
+  },
+  "author": "Saravanan Jayabalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saravananj/Personal-Assistant/issues"
+  },
+  "homepage": "https://github.com/saravananj/Personal-Assistant#readme"
+}
